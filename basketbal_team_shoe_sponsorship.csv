@@ -2,7 +2,7 @@ ID,POSITION,HEIGHT,WEIGHT,CAREER STAGE,AGE,SPONSORSHIP EARNINGS,SHOE SPONSOR
 1,forward,195,221,veteran,25,694,no
 2,guard,192,200,mid-career,32,427,yes
 3,center,207,247,veteran,27,1065,no
-4,guard,185,197,mid-career,29,178,yes
+4,guard,185,197,,29,178,yes
 5,center,206,246,mid-career,29,314,no
 6,guard,182,199,rookie,21,1678,yes
 7,center,207,247,veteran,27,1065,no
@@ -4999,3 +4999,4 @@ ID,POSITION,HEIGHT,WEIGHT,CAREER STAGE,AGE,SPONSORSHIP EARNINGS,SHOE SPONSOR
 4998,center,218,251,mid-career,35,60,no
 4999,forward,215,232,mid-career,30,434,no
 5000,guard,189,199,mid-career,27,385,yes
+
